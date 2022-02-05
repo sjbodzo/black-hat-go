@@ -1,4 +1,4 @@
-module github.com/sjbodzo/metasploit-minimal
+module github.com/sjbodzo/supreme-waddle/metasploit-minimal
 
 go 1.17
 

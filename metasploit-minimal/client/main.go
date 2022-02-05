@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/sjbodzo/bhg/metasploit-minimal/rpc"
+	"github.com/sjbodzo/supreme-waddle/metasploit-minimal/rpc"
 )
 
 func main() {
