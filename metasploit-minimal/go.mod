@@ -1,4 +1,4 @@
-module github.com/sjbodzo/supreme-waddle/metasploit-minimal
+module black-hat-go/metasploit-minimal
 
 go 1.17
 
